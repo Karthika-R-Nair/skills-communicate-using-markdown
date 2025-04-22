@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Karthika!";
 ```
+- [x] FOC
+- [x] IPR
+- [ ] C
